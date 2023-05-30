@@ -1,0 +1,47 @@
+/* Selectores */
+
+.tituloPrincipal{
+    padding-left: 30px;
+}
+#banner{
+    width: 100%;
+}
+.BPrincipal{
+    background: #cccccc;
+    padding: 20px;
+}
+.tituloCentral{
+    text-align: center;
+    /* height: 150px;
+    border: 10px solid #000000;
+    padding: 20px;
+    margin: 40px; */
+}
+p {
+    text-align: center;
+}
+#mision {
+    font-size:20px;
+}
+em strong{
+    color:  red;
+}
+.diferenciales{
+    background: #ffffff;
+    padding: 30px;
+}
+h3{
+    text-align: center;
+}
+.items{
+    font-style: italic;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagen_diferenciales{
+    width: 50%;
+}
